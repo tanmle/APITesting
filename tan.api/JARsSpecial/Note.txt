@@ -1,0 +1,15 @@
+Serenity-report-resource-1.1.34:
+	- %userprofile%\.m2\repository\net\serenity-bdd\serenity-report-resources\1.1.34
+	- edited all ftl files
+	- deleted resource folder
+	- changed logo and icon
+
+
+serenity-maven-plugin-1.1.34:
+	- %userprofile%\.m2\repository\net\serenity-bdd\maven\plugins\serenity-maven-plugin\1.1.34
+	- edited: SerenityAggregatorMojo.configureOutputDirectorySettings()
+
+
+serenity-core-1.1.34:
+	- %userprofile%\.m2\repository\net\serenity-bdd\serenity-core\1.1.34
+	- edited: reports, reports\html, reports\junit, junit\model...
